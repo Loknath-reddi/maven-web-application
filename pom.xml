@@ -98,6 +98,11 @@
                 <name>releases</name>
                 <url>http://3.142.52.16:8081/repository/new/</url>
            </repository>
+    <snapshotRepository>
+        <id>maven-snapshots</id>
+        <name>Snapshots</name>
+        <url>http://3.142.52.16:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
         </distributionManagement>
 	<build>
 		<finalName>maven-web-application</finalName>
