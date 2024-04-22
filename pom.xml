@@ -92,15 +92,13 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.142.52.16:8081/repository/new/</url>
-	    </repository>
-	    
-	</distributionManagement>
+        <distributionManagement>
+            <repository>
+                <id>nexus-releases</id>
+                <name>releases</name>
+                <url>http://3.142.52.16:8081/repository/new/</url>
+           </repository>
+        </distributionManagement>>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
