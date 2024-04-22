@@ -98,8 +98,7 @@
                 <name>releases</name>
                 <url>http://3.142.52.16:8081/repository/new/</url>
            </repository>
-        </distributionManagement>>
-	
+        </distributionManagement>
 	<build>
 		<finalName>maven-web-application</finalName>
 		
