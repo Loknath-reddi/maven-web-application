@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>maven-releases</id>
+	      <id>ubuntu</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.205.212.229:8081/repository/maven-releases/</url>
+	      <url>http://13.126.40.112:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>maven-snapshots</id>
+	      <id>ubuntu</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.205.212.229:8081/repository/maven-snapshots/</url>
+	      <url>http://13.126.40.112:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
