@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Martha, Above ICICI Bank, Beside Meghana Foods,
 		Bangal
 		8016969373
-		devopstrainingblr@gmail.com
+		devopstrainingblr@gmail.
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
