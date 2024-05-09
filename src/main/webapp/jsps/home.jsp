@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
+		Martha, Above ICICI Bank, Beside Meghana Foods,
 		Bangal,
 		8016969373
 		devopstrainingblr@gmail.com
